@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\Equinoxe Consulting\Developement\Articles\DebugProxyDemo\DebugProxyDemo\Model\Discography.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Equinoxe Consulting\Developement\Articles\DebugProxyDemo\DebugProxyDemo\Model\DiscographyDebugProxy.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Equinoxe Consulting\Developement\Articles\DebugProxyDemo\DebugProxyDemo\Program.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Equinoxe Consulting\Developement\Articles\DebugProxyDemo\DebugProxyDemo\Model\Record.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
